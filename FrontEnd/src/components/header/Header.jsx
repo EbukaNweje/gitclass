@@ -7,6 +7,7 @@ const Header = () => {
             <p className="lead"> i am a web developer and designer</p>
             <div>
               <input type="text" />
+                <p>the boy is good</p>
             </div>
         </div>
     );
